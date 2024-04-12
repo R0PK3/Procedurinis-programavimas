@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1642320617 source:c:\users\robertas\desktop\4 programa\programa\main\functions.c
+	<stdio.h>
+	<stdlib.h>
+	"Functions.h"
+
+1642322603 c:\users\robertas\desktop\4 programa\programa\main\functions.h
+
+1642283312 source:c:\users\robertas\desktop\4 programa\programa\main\main(1).c
+	<stdio.h>
+	<stdlib.h>
+	"Functions.h"
+	<assert.h>
+
+1642283308 source:c:\users\robertas\desktop\4 programa\programa\main\main(2).c
+	<stdio.h>
+	<stdlib.h>
+	"Functions.h"
+	<assert.h>
+
+1642322674 source:c:\users\robertas\desktop\4 programa\programa\main\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Functions.h"
+	<assert.h>
+	<ctype.h>
+
+1642322164 source:c:\users\robertas\desktop\4 programa\programa\main\user_interface.c
+	<stdio.h>
+	<stdlib.h>
+	"Functions.h"
+

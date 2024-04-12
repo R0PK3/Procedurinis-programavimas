@@ -1,0 +1,5 @@
+The results are:
+hemisphere
+Hemisphere,
+temperatures.
+elevation
